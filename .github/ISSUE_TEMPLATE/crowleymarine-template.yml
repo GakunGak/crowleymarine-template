@@ -2,7 +2,6 @@ name: "Issue Report"
 description: This report is to present issues which need to be resolved and completed.
 title: "[Issue]: "]
 labels: ["problem", "issue"]
-
 body:
   - type: markdown
     attributes:
