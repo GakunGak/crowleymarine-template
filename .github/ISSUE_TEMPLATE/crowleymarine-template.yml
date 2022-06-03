@@ -1,7 +1,8 @@
 name: Issue Report
 description: This report is to present issues which need to be resolved and completed.
-title: "[Issue]: "
+title: "[Issue]: "]
 labels: ["problem", "issue"]
+
 assignees:
   - placeholder: GakunGak
 body:
