@@ -3,7 +3,7 @@ description: This report is to present issues which need to be resolved and comp
 title: "[Issue]: "
 labels: ["problem", "issue"]
 assignees:
-  
+  - placeholder: GakunGak
 body:
   - type: markdown
     attributes:
