@@ -3,7 +3,7 @@ description: File an issue report
 body:
   - type: markdown
     attributes:
-      value: |
+      value: 
                 
         Thank you for taking the time to file an issue report. To address this issue as fast as possible, we need some information.
   - type: input
