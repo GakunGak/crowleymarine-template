@@ -55,3 +55,4 @@ body:
         - Require report only when complete
         - Require report only on major changes
         - Require report for any activity
+    render: shell
