@@ -3,10 +3,14 @@ description: "This report is to present issues which need to be resolved and com
 title: "[Issue]: "
 labels: ["problem", "issue"]
 body:
-  - type: markdown
+  - type: input
+    id: reportform
     attributes:
-      value: |
-        Please describe your issue in great detail!
+      label: Please describe your issue in great detail!
+      placeholder: Issue description goes here.
+      validations:
+      required: true
+      
   - type: input
     id: contact
     attributes:
