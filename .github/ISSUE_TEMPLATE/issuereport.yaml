@@ -38,7 +38,7 @@ body:
   - type: dropdown
     id: location
     attributes:
-      label: urgentoption
+      label: Urgency
       description: How urgent is the issue?
       options:
         - Not urgent at all
